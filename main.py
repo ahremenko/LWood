@@ -11,6 +11,6 @@ def print_hello_world(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hello_world('PyCharm')
+    print_hello_world('Welcome to PyCharm!')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
